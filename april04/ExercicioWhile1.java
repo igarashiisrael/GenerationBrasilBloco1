@@ -26,6 +26,8 @@ public class ExercicioWhile1 {
 		}
 		System.out.println("Total de pessoas com menos de 21 anos: " + contTeen);
 		System.out.println("Total de pessoas com mais de 50 anos: " + contOld);
+		
+		scan.close();
 
 	}
 
